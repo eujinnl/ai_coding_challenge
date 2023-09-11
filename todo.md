@@ -7,5 +7,5 @@
 
 Use anything u feel comfortable with, we don't expect specific results, its almost only important how you approached it. Stop at a maximumum of 4 hours invested!
 If you have any questions, ping us of course.
-When you are done, just shoot the code over as a zip or push it to a repo, both ways are totally fine.
+When you are done, just shoot the code over as a zip or push it to a repo or a jupiter notebook, all the ays are totally fine.
 
